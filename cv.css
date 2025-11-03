@@ -1,0 +1,139 @@
+body{
+    margin: 10%;    
+    display: flex;
+    flex-direction:column;
+}
+.top{
+    width: 100%;
+    height: 20vw;
+    background-color: rgba(6, 6, 142, 0.546);
+}
+
+.img{
+    top: 21vw;
+    border-radius: 100%;
+    left: 14%; 
+    width: 16%;
+    position: absolute;
+}
+
+.nom{ 
+    margin: 0;
+    margin-left: 40%;
+    width: 100%;
+    text-align: justify;
+    font-family: serif;
+    font-size: 4vw;
+}
+.technicien{
+    margin-left: 40%;
+    text-align: justify;
+    font-family: serif;
+    font-size: 2vw;
+}
+
+.leftzone{
+    height: 300%;
+    width: 30%;
+    background-color: rgba(167, 163, 163, 0.817);
+}
+
+.leftText{
+    margin: 0;
+    margin-left: 4%;
+    padding-top: 50%;
+    padding-left: 5%;
+}
+
+.lefthr{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.retour{
+    margin: 0;
+    width: 4%;
+    margin-left: 8%;
+}
+
+.noMargin{
+    margin: 0;
+}
+.ndleftText{
+    margin: 0;
+    margin-left: 4%;
+    padding-top: 15%;
+    padding-left: 5%;
+}
+span{
+    content: "\2022";
+    margin-left: 8%;
+}
+
+.leftret{
+    margin:0;
+    margin-left: 8%;
+}
+
+.rz{
+    background-color: rgb(219, 214, 214);
+    flex: 1;
+}
+
+.content {
+	display: flex; 
+	flex: 1; 
+}
+
+.bag{
+    margin: 0;
+    width: 3%;
+}
+
+.righttext{
+     margin: 0;
+     margin-left: 4%;
+    padding-top: 3%;    
+    font-size: 2vw;
+}
+
+.righthr{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#right{
+    font-size: 2vw;
+    margin-left: 8%;
+    font-weight:900;
+    margin-bottom: 1%;
+}
+
+.date{
+    font-size: 60%;
+}
+
+.poste{
+    margin-left: 8%;
+    font-size: 2vw;
+    margin-top: 0;
+}
+
+.rl{
+    margin-left: 20px;
+    font-size: 18;
+    list-style-position: inside;
+}
+
+#formation{
+    font-size: 130%;
+    margin-left: 8%;
+    font-weight:900;
+    margin-bottom: 1%;
+}
+
+.spe{
+    margin-left: 8%;
+    font-size: 18;
+    list-style-position: inside;
+}
